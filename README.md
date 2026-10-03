@@ -1,8 +1,8 @@
-# POCO F7 Bliss 20 Android 17 Wi-Fi 7 + Dual STA
+# POCO F7 Bliss 20 Android 17 Hotspot 6Ghz 320Mhz Wi-Fi 7 + Dual STA (Dual Wi-Fi)
 
 Device-specific working files for **POCO F7 / onyx** running:
 
-- ROM: Bliss-v20.0-onyx-OFFICIAL-gapps-20260923
+- ROM: Bliss-v20.0-onyx-OFFICIAL-gapps-20260923  (Do't try On other Build)
 - Android: 17
 - Dual STA controller: v1.0.4-bliss17
 
